@@ -1,5 +1,8 @@
 
 def my_square(x):
+	"""
+	Takes a value and returns the sqaured valued.
+	"""
 	return ( x ** 2)
 
 
