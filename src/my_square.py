@@ -9,6 +9,9 @@ def my_square(y):
 	return ( y ** 2)
 
 def my_square2(x):
+	"""
+	uses teh * operator to calculate sqaure
+	"""
 	return (x * x)
 
 print(my_square(42))
